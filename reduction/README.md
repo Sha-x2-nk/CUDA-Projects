@@ -2,6 +2,9 @@
 ## Introduction
 This repository contains CUDA implementations of 8 reduction kernels, showcasing a progression from basic approaches to optimized techniques for efficient reduction operations on NVIDIA GPUs.
 ## Kernels and Performance
+
+#### HARDWARE: RTX 3070Ti ( Compute Capablity 8.6 )
+
 Below kernels were bench on ~4M elements using Nvidia Nsight Compute.
 | Kernel | Runtime | Relative Speedup | Absolute Speedup |
 |--|--|--|--|

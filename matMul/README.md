@@ -21,7 +21,6 @@ NUM_FLOPS for cuBlas MatMul= 2 x (4096 x 4096 x 4096) + 4096 x 4096= 137.45 GFLO
 
 #### HARDWARE: RTX 3070Ti ( Compute Capablity 8.6 )
 
-
 |Kernel | GFLOPs | % of CuBLAS |
 |-------|--------|-------------|
 |0. BASIC MATMUL. No COALESCING |  50.53 GFLOPs | 0.73 % |

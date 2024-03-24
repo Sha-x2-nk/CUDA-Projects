@@ -9,6 +9,9 @@ This repository contains CUDA projects focusing on optimizing different algorith
 3. Reduction
 4. Transpose
 
+## Performance 
+All projects include a kernels and performance tab, where all versions of kernels are benchmarked.
+
 ## Usage
 * Navigate to desired project directory and follow instructions\
 

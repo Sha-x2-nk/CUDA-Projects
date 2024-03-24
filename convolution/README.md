@@ -3,6 +3,7 @@
 This project implements three convolution kernels using CUDA (Compute Unified Device Architecture) with optimizations for improved performance. The convolution kernels are fundamental operations in deep learning and image processing, and optimizing them for GPU execution can significantly accelerate computation.
 
 ## Kernels and Performance
+#### HARDWARE: RTX 3070Ti ( Compute Capablity 8.6 )
 | kernel | runtime | Relative Speedup | Absolute Speedup |
 |--------|---------|-------------|--|
 |1. Basic Kernel | 1.61 ms | 1 x | 1x |
