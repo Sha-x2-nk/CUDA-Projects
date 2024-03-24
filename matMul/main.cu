@@ -1,5 +1,5 @@
-#include "src/kernels.cuh"
-#include "src/errorCheckUtils.cuh"
+#include "include/kernels.cuh"
+#include "include/errorCheckUtils.cuh"
 
 #include <cuda_runtime.h>
 #include <cublas_v2.h>

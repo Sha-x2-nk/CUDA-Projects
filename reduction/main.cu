@@ -1,6 +1,6 @@
-#include "src/errorCheckUtils.cuh"
+#include "include/errorCheckUtils.cuh"
+#include "include/kernels.cuh"
 
-#include "src/kernels.cuh"
 #include <cuda_runtime.h>
 
 #include <random>
