@@ -13,7 +13,7 @@ This repository contains CUDA projects focusing on optimizing different algorith
 All projects include a kernels and performance tab, where all versions of kernels are benchmarked.
 
 ## Usage
-* Navigate to desired project directory and follow instructions\
+* Navigate to desired project directory and follow instructions.
 
 ## Acknowledgements
 * Book - Programming Massively Parallel Processors by Wen-mei W. Hwu, David B. Kirk, Izzar El Hajj
